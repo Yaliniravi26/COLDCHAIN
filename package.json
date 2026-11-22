@@ -1,0 +1,9 @@
+{
+  "name": "cold-chain-indicator-root",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node ./Cold-chain-indicator-tag--main/server.js",
+    "dev": "node ./Cold-chain-indicator-tag--main/server.js"
+  }
+}
